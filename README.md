@@ -8,7 +8,7 @@ Then clone the forked repo in your PC. by (git clone https://github.com/(your us
 After cloning. Open terminal inside the cloned folder should be named "TIP" .
 Do 
 1) git checkout -b origin/Assignment0
-2) git remote add upstream https://github.com/hardik124/TIP
+2) git remote add upstream https://github.com/hardik124/TIP.git
 3) git fetch upstream. then gitmerge upstream/Assignment0
 4) Now create a folder inside the TIP folder with your name. (Space replaced by '_') 
 5) Create a doc named "About-me.doc" and write anything you want to about yourself 

@@ -7,7 +7,7 @@ Then clone the forked repo in your PC. by (git clone https://github.com/(your us
 
 After cloning. Open terminal inside the cloned folder should be named "TIP" .
 Do 
-1) git checkout -b origin/Assignment0
+1) git checkout origin/Assignment0 then git checkout -b AboutMe
 2) git fetch upstream.
 3) git merge upstream/Assignment0
 4) Now create a folder inside the TIP folder with your name. (Space replaced by '_') 
@@ -16,5 +16,5 @@ Do
 7) git commit -m "Assignment0 : Type your message here"
 8) git push.
 
-Now ,go into your forked repository on web. Switch to Assignment0 branch. It should show 1 commit ahead of upstream/master ,dont bother about 'x' commits behind. You will see a "pull request" click on it. Now you can make a Pull request . Write a comment describing anything you want. And then create it.
+Now ,go into your forked repository on web. Switch to AboutMe branch. It should show 1 commit ahead of upstream/master ,dont bother about 'x' commits behind. You will see a "pull request" click on it. Now you can make a Pull request . Write a comment describing anything you want. And then create it.
 In comments of Pull request please reference the issue .

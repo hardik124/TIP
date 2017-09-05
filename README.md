@@ -17,4 +17,4 @@ Do
 8) git push.
 
 Now ,go into your forked repository on web. Switch to Assignment0 branch. It should show 1 commit ahead of upstream/master ,dont bother about 'x' commits behind. You will see a "pull request" click on it. Now you can make a Pull request . Write a comment describing anything you want. And then create it.
-
+In comments of Pull request please reference the issue .
